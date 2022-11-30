@@ -30,6 +30,15 @@
                 "InterstitialAdKey": "Interstitial_Android",
                 "RewardedAdKey": "Rewarded_Android",
                 "NativeAdKey": ""
+            },
+            {
+                "MonetizationId": 2,
+                "MonetizerName": "AD_MANAGER_APP",
+                "AdAppKey": "ca-app-pub-3487297678781435~5876813567",
+                "BannerAdKey": "/22686075355/com.mostchat.violet.white.love.video.chat.banner",
+                "InterstitialAdKey": "/22686075355/com.mostchat.violet.white.love.video.chat.interstitial",
+                "RewardedAdKey": "",
+                "NativeAdKey": "/22686075355/com.mostchat.violet.white.love.video.chat.native"
             }
         ]
     },
