@@ -5,15 +5,6 @@
         "ShowAds": true,
         "Ads": [
             {
-                "MonetizationId": 1,
-                "MonetizerName": "Facebook Monetization",
-                "AdAppKey": "1152983375343366",
-                "BannerAdKey": "1152983375343366_1152984455343258",
-                "InterstitialAdKey": "1152983375343366_1152984572009913",
-                "RewardedAdKey": "1152983375343366_1152984885343215",
-                "NativeAdKey": "1152983375343366_1152984682009902"
-            },
-            {
                 "MonetizationId": 6,
                 "MonetizerName": "ironSource",
                 "AdAppKey": "165b8b735",
@@ -39,6 +30,15 @@
                 "InterstitialAdKey": "/22686075355/com.mostchat.violet.white.love.video.chat.interstitial",
                 "RewardedAdKey": "",
                 "NativeAdKey": "/22686075355/com.mostchat.violet.white.love.video.chat.native"
+            },
+            {
+                "MonetizationId": 1,
+                "MonetizerName": "Facebook Monetization",
+                "AdAppKey": "1152983375343366",
+                "BannerAdKey": "1152983375343366_1152984455343258",
+                "InterstitialAdKey": "1152983375343366_1152984572009913",
+                "RewardedAdKey": "1152983375343366_1152984885343215",
+                "NativeAdKey": "1152983375343366_1152984682009902"
             }
         ]
     },
